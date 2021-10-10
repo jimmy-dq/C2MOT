@@ -1,7 +1,7 @@
 # C2MOT
 The codes for ACM Multimedia 2021 paper 'Dynamic Momentum Adaptation for Zero-Shot Cross-Domain Crowd Counting'
 
-The codes will be coming soon!
+The models and codes will be coming soon!
 
 ------
 
